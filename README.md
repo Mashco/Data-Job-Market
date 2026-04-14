@@ -1,7 +1,7 @@
 # Global Data Jobs Insights Dashboard
 Interactive Excel dashboard analyzing global data job postings: salaries, skills demand, remote trends, and location insights using Power Query, DAX, and Python in Excel.
 
-![Dashboard Screenshot](screenshots/dashboard_main.png)
+
 
 **Interactive Excel dashboard** exploring worldwide data analyst / data science job market trends — salaries, in-demand skills, remote work, company size, and location insights. Built as the capstone project for Luke Barousse's *Data Analayst* course.
 
