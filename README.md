@@ -46,7 +46,7 @@ Interactive Excel dashboard analyzing global data job postings: salaries, skills
 
 
 ##  How to Use / Explore
-1. Download the file: [`Data_Jobs_Analysis_Dashboard.xlsx`](Data_Jobs_Analysis_Dashboard.xlsx)
+1. Download the file: [`[Data_Jobs_Analysis_Dashboard.xlsx](https://github.com/Mashco/Data-Job-Market/blob/main/1_Salary_Dashboard.xlsx)`]
 2. Open in **Excel desktop version** (best experience — some features limited in Excel Online)
 3. Use the slicers on the **Dashboard** sheet to filter
 
